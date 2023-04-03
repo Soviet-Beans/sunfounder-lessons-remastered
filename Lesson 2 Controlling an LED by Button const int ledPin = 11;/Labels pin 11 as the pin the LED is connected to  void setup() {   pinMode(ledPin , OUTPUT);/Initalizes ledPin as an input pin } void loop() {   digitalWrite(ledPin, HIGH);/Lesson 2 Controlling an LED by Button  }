@@ -1,0 +1,10 @@
+const int ledPin = 11; // Labels pin 11 as the pin the LED is connected to
+
+void setup()
+{
+  pinMode(ledPin , OUTPUT); // Initalizes ledPin as an input pin
+}
+void loop()
+{
+  digitalWrite(ledPin, HIGH); // Outputs power from ledPin
+}
