@@ -17,3 +17,5 @@ lesson 4: https://www.tinkercad.com/things/a8q7RgROhMP
 lesson 5: https://www.tinkercad.com/things/3kFT20jNwdk
 
 lesson 6: https://www.tinkercad.com/things/cIPa3YPgLfH
+
+lesson 7: https://www.tinkercad.com/things/lrTBOgrjauT
