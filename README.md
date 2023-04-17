@@ -4,7 +4,7 @@ Arduino code from Sunfounder lessons converted into more legible code
 In this project I intend on converting all the lessons from Sunfounder's "Super Kit V3.0 for Arduino" into more legible code
 for the use of beginners to more easily learn how to program and use an Arduino
 
-All of the circuit layouts can be found on Autodesk Tinkercad under these links
+All of the circuit layouts can be found on Autodesk Tinkercad at the links below
 
 lesson 1: https://www.tinkercad.com/things/hdro4DRXt1N
 
